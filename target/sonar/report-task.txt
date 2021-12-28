@@ -1,0 +1,6 @@
+projectKey=Minor:Minor
+serverUrl=http://localhost:9002
+serverVersion=7.7.0.23042
+dashboardUrl=http://localhost:9002/dashboard?id=Minor%3AMinor
+ceTaskId=AX4A_-5sS927u8iaLQ6U
+ceTaskUrl=http://localhost:9002/api/ce/task?id=AX4A_-5sS927u8iaLQ6U
